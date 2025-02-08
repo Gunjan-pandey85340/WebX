@@ -11,13 +11,7 @@ export const Header = () => {
         '/Header1.jpg', 
         '/Header2.jpg', 
         '/Header3.jpg', 
-        '/Header4.jpg', 
-        '/Header5.jpg', 
-        '/Header6.jpg', 
-        '/Header7.jpg', 
-        '/Header8.jpg',
-        '/Header9.jpg',
-        '/Header10.jpg'
+        '/Header4.jpg'
     ];
 
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
